@@ -1,0 +1,11 @@
+[{
+        "text": "John lives in New York.",
+        "ner_labels": [1, 0, 0, 3, 4, 0],
+        "pos_labels": [2, 3, 4, 5, 5, 0]
+    },
+    {
+        "text": "Mary visited Paris in 2021.",
+        "ner_labels": [1, 0, 3, 0, 0, 0],
+        "pos_labels": [2, 3, 4, 4, 5, 0]
+    }
+]
